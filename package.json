@@ -1,0 +1,18 @@
+{
+  "name": "savetheclocktower-test-another-package-rename",
+  "main": "./lib/savetheclocktower-test-another-package-rename",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "savetheclocktower-test-another-package-rename:toggle"
+  },
+  "repository": "https://github.com/savetheclocktower/savetheclocktower-test-another-package-rename",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
